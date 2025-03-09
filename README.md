@@ -1,6 +1,6 @@
 ### Happy to see you! :blush:
 <div align="center">
-  <i>Working a lot and focusing on studies.</i><br><img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/><img src="https://camo.githubusercontent.com/a433273b618d7b8c2569ba6013774adf910ae8e3da45eaff176f64781bfd53fc/68747470733a2f2f72617069646170692e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f30312f6f63746f6361742e676966" width="200"/><img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+  <i>Working a lot and focusing on studies.</i><br><img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG40eDNoc3ZlN2ZubXpqc3VjODA0emdlNTAzN2QzMXhzb3dieHNjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hV0pccEE0jLfelZPCC/giphy.gif" width="200"/><img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 
 I'm a System analyst @[7comm](https://www.linkedin.com/company/7comm/posts/?feedView=all)).<br>
 [![Linkedin: carolinagonzaga](https://img.shields.io/badge/-carolinagonzaga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-gonzaga-66b00b216/)](https://www.linkedin.com/in/carolina-gonzaga/)
